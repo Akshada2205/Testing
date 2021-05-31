@@ -5,6 +5,7 @@ public class Hrishi {
 	{
 		// TODO Auto-generated method stub
 System.out.println("hello hrishi....");
+		System.out.println("hello akshada");
 	}
 
 }
